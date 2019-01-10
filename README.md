@@ -1,6 +1,6 @@
 # RecurringJobs
 
-**TODO: Add description**
+Sample recurring job that fetches Bitcoin, Ethereum and Litecoin prices.
 
 ## Installation
 
